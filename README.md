@@ -1,2 +1,3 @@
-# Methane-Gas-Water-Reaction
-Seeing the changes in water vapor pressure when methane reacts with water
+# Methane Gas & Water Reaction
+When methane gas reacts with water, it creates carbon monoxide and hydrogen gas.
+
